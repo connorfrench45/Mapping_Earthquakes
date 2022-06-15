@@ -2,7 +2,7 @@
 console.log('working');
 
 // Create a map object with a center and zoom level
-let map = L.map('mapid').setView([37.5, -122.5], 10);
+let map = L.map('mapid').setView([30, 30], 2);
 
 // Add GeoJSON data.
 let sanFranAirport =
