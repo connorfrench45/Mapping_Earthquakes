@@ -6,7 +6,7 @@ On load, the website looks like this:
 ![load](Resources/onload.PNG)
 
 The fault lines are in a bright red, while the earthquakes dot the map in colors defined by the legend in the bottom right. The top right offers options to load onto the map:
-![menu](Resources/menu.PNG)
+![menu](Resources/menu.png)
 
 The major earthquakes option only shows earthquakes with magnitude larger than 4.5.
 ## Potential Updates
